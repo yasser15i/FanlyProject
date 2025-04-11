@@ -1,1 +1,1 @@
-# FanlyProject
+# FanlyProject-App
